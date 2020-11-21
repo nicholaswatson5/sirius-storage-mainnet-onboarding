@@ -43,7 +43,7 @@ This README was prepared using the following platform(s):
 
 
 ## Helpdesk
-We have a [telegram helpdesk](https://t.me/proximaxhelpdesk) to assist general queries.
+We have a [Telegram Helpdesk](https://t.me/proximaxhelpdesk) to assist general queries.
 
 ## References
 - [Sirius Storage](https://storagedocs.xpxsirius.io/)
